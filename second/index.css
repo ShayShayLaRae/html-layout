@@ -1,0 +1,68 @@
+body{
+    height: 100vh;
+    padding: 10px;
+}
+.row1{
+    height: 25%;
+    width: auto;
+    border: 5px solid black;
+    padding: 20px;
+}
+.leftCont{
+    align-items: flex-end;
+    height: 100%;
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+}
+.purpleRec{
+    height: 75%;
+    width: 5%;
+    background-color: #7600DF;
+}
+.greenRec{
+    height: 90%;
+    width: 40%;
+    background-color: #1B7D13;
+    
+}
+.blueCir{
+    height: 200px;
+    width: 200px;
+    background-color: #74C3E8;
+    border-radius: 100px;
+}
+.row2{
+    height: 30%;
+    width: auto;
+    border: 5px dotted black;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.yellowRex{
+    background-color: #FFFBBF;
+    height: 70%;
+    width: 90%;
+    box-shadow: 7px 7px 5px black;
+    
+}
+.row3{
+    height: 45%;
+    width: auto;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+.greeting{
+    font-size: 30px;
+    height: 80%;
+    width: 60%;
+    border: 3px solid lightgrey;
+    color: #00006F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
